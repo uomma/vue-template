@@ -12,6 +12,8 @@ export default{
   <HelloApp></HelloApp>
 </template>
 
-<style scoped>
+<style lang="scss">
+
+
 
 </style>
